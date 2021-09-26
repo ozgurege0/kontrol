@@ -1,0 +1,3 @@
+Kurulum için ilk olarak bir veritabanı oluşturup phpmyadmin'den sql dosyasını aktarın. 
+Ardından admin/ayarlar/baglan.php'ye gidip veritabanı bilgilerinizi girin.
+İyi kullanımlar.
